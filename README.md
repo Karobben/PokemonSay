@@ -6,8 +6,8 @@
 Requirement: pyparsing
 
 ```
-./Pikachusay.py "Hollow World"
-./Squirtlesay.py "Hollow World"
+./Pikachusay.py "Hello World"
+./Squirtlesay.py "Hello World"
 ```
 
 <p align='center'>
