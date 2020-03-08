@@ -11,10 +11,8 @@ Requirement: pyparsing
 ```
 
 <p align='center'>
-<img src="img/pika.gif">
-<iframe src="//player.bilibili.com/player.html?aid=40788253&cid=71638297&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<img src="img/Pi.gif">
 </p>
 
-<iframe src="//player.bilibili.com/player.html?aid=40788253&cid=71638297&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 Enjoy~
